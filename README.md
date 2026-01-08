@@ -31,5 +31,4 @@ The output will be the entire list after calling your function.
 
 ### Explanation: You are given the third node with value 1, the linked list should become 4 -> 5 -> 9 after calling your function.
  
-### Constraints:The number of the nodes in the given list is in the range [2, 1000].-1000 <= Node.val <= 1000 The value of each node in the list is unique.
-The node to be deleted is in the list and is not a tail node.
+### Constraints:The number of the nodes in the given list is in the range [2, 1000].-1000 <= Node.val <= 1000 The value of each node in the list is unique.The node to be deleted is in the list and is not a tail node.
